@@ -26,3 +26,11 @@ This engine serves as a **Zero-Cloud Dependency Triage Solution**. Running entir
 2. **Execute Sync Engine:** Click the green **Fetch Advisories** button on the dashboard interface. This triggers the localized Outlook API hook.
 3. **Review Extracted Data:** The engine clears the active dashboard view and repopulates it with live entries matching the keywords (`RBI`, `CERT`, etc.), complete with extracted overviews and structural attachment indicators.
 4. **Audit Long-Term History:** Navigate to the `Compliance_Archive` tab to review the deduplicated chronological record ledger of all captured historical alerts.
+
+
+
+
+https://github.com/user-attachments/assets/ce693200-0f24-494e-bcfb-a1f6af3c1c1f
+
+
+
